@@ -1,0 +1,21 @@
+{
+  "name": "Curriculum Vitae - Edgar Sanchez Flores",
+  "short_name": "CV - Edgar",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "icons": [
+    {
+      "src": "/icono.jpg",
+      "sizes": "300x300",
+      "type": "image/jpg"
+    }
+  ],
+  "description": "Personal information",
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
